@@ -4,23 +4,10 @@
 
 [WORD_GROUPS]
 
-/胖东来|于东来/ => 胖东来
-
-/字节|张一鸣|梁汝波|抖音|\bByteDance\b|\bTikTok\b|\bDouyin\b|\bLark\b|\bCapCut\b/ => 字节跳动
-
-/腾讯|鹅厂|马化腾|微信|QQ|天美|阅文集团|微众银行|\bTencent\b|\bPony Ma\b|\bWeChat\b|\bLightSpeed\b|\bWeBank\b/ => 腾讯
-
-/qwen|minimax|glm/ => 国产开源模型
-
-/特斯拉|马斯克|\bTesla\b|\bElon Musk\b|\bCybertruck\b|\bModel 3\b|\bModel Y\b|\bModel S\b|\bModel X\b|\bFSD\b/ => 特斯拉
-
-/英伟达|黄仁勋|\bNVIDIA\b|\bGeForce\b|\bRTX\b|\bCUDA\b|\bJensen Huang\b/ => 英伟达
-
-/微软|\bMicrosoft\b|\bWindows\b|\bAzure\b|\bSatya Nadella\b|\bCopilot\b/ => 微软
-/谷歌|皮查伊|安卓|油管|\bGoogle\b|\bAlphabet\b|\bAndroid\b|\bChrome\b|\bYouTube\b|\bGemini\b|\bDeepMind\b|\bWaymo\b/ => 谷歌
-/库克|\biPhone\b|\biPad\b|\bMacBook\b|\biOS\b|\bVision Pro\b|\bAirPods\b|\bApple\b|\bTim Cook\b/ => 苹果
-
-/\bOpenAI\b|\bChatGPT\b|\bSora\b|\bDALL-E\b|\bSam Altman\b|\bGreg Brockman\b/ => OpenAI
-/\bAnthropic\b|\bClaude\b|\bDario Amodei\b/ => Claude
-
+/OpenAI|Claude|Copilot|Gemini|Codex|Grok|Qwen|minimax|glm|deepseek|Cursor|GPT/ => AI大模型
+/游戏|手游|网游|game/ => 游戏
+/腾讯|网易|完美|米哈游|趣加|FunPlus/ => 游戏大厂
+/手游资源|游戏源码|手游源码|源码|美术资源/ => 游戏资源
+/Unity|Unreal|Tuanjie|Laya|Cocos|Three.js|Godot/ => 游戏引擎
+/BTC|ETH|SOL|BNB|OKB|DOGE|PEPE|Web3|Crypto|比特币|以太坊|币安|欧易|微策略|MicroStrategy|区块链|BlockChain|中本聪|赵长鹏|V神/ => 加密行业
 
